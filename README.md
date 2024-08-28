@@ -2,7 +2,7 @@
 <div>
 <img src="./image.png" alt="banner" style="100%">
 <h3 align="center">
-        <samp>&gt;<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="BhuvaneshwarMarri" style="width:25px"/> Hey There!, I am
+        <samp>&gt;<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="ShivamaniThirunahari" style="width:25px"/> Hey There!, I am
                 <b><a target="_blank" href="">Shivamani Thirunahari</a></b>
         </samp>
 </h3>
@@ -33,7 +33,7 @@
 <img align="right" alt="Coding" width="350" src="./coding-2.gif">
 <br>
 
-- 🏦 3rd year computer science student at GRIET
+- 🏦 4th year computer science student at GRIET
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td colspan="2" style="border: 0; padding: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Shiva&theme=merko" alt="Bhuvaneshwar's GitHub activity graph" style="width: 100%; height: auto;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Shiva&theme=merko" alt="Shivamani's GitHub activity graph" style="width: 100%; height: auto;">
     </td>
   </tr>
 </table>
