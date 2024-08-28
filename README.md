@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/bhuvaneshwar-marri/" target="_blank">
+ <a href="https://www.linkedin.com/in/shivamani-thirunahari/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hari-Shiva"/>
  </a>
- <a href="mailto:Hari-Shiva@gmail.com" target="_blank">
+ <a href="mailto:shivamanit06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hari-Shiva"/>
  </a>
 </p>
@@ -37,9 +37,9 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [Bhuvaneshwar's workspace](https://github.com/Hari-Shiva?tab=repositories)
+- 👨‍💻 All of my projects are available at [Shivamani's workspace](https://github.com/Hari-Shiva?tab=repositories)
 
-- 📫 How to reach me **Hari-Shiva@gmail.com**
+- 📫 How to reach me **shivamanit06@gmail.com**
 
 <img src="./horizontal-divider-gradient.gif">
 
