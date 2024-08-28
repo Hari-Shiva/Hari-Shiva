@@ -1,6 +1,6 @@
 ﻿<!-- Intro  -->
 <div>
-<img src="./Banner.png" alt="banner" style="100%">
+<img src="./image.png" alt="banner" style="100%">
 <h3 align="center">
         <samp>&gt;<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="BhuvaneshwarMarri" style="width:25px"/> Hey There!, I am
                 <b><a target="_blank" href="">Shivamani Thirunahari</a></b>
