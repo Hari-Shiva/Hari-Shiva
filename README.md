@@ -57,7 +57,7 @@
 ## ⭐️ My Favourite Repo's 
 <table style="border-collapse: collapse; border: 0; width: 100%;">
 <tr>
-<td>   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-Shiva&repo=MyPortfolio&theme=github_dark" style="width:100%;height:auto" alt="MyPortfolio repo"></td>
+<td>   <img src="https://github.com/Hari-Shiva/emojiGame" style="width:100%;height:auto" alt="emoji Game"></td>
 <td> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-Shiva&repo=webopen&theme=github_dark" style="width:100%;height:auto" alt="webopen repo"></td>
 </tr>
 </table>
